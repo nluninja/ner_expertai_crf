@@ -24,5 +24,3 @@ Edge NL API is free to use; it only requires an account creation at https://deve
 
 
 
-
-
