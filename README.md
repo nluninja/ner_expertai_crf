@@ -3,7 +3,7 @@ The notebook shows how to improve the performance of the CRF algorithm about nam
 The task has been training and measured with reference to CoNLL 2003 dataset; the notebook downloads the dataset from this [https://github.com/nluninja/nlp_datasets](repo).
 
 ## Load the required dependencies
-it requires sklearn-crfsuite, seqeval and edge-nlapi libraries.  
+it requires sklearn-crfsuite and edge-nlapi libraries.  
 
 `pip install -r requirements.txt`
 
