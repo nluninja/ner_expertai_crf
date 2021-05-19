@@ -5,7 +5,9 @@ The task has been trained and measured with reference to CoNLL 2003 dataset; the
 ## Load the required dependencies
 it requires sklearn-crfsuite and edge-nlapi libraries.  
 
-`pip install -r requirements.txt`
+`conda create -f environment.xml`
+
+`conda activate ner_expertai`
 
 
 ## Get expert.ai edge NL API

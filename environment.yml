@@ -1,0 +1,20 @@
+name: ner-expertai
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.7
+  - jupyter
+  - tensorflow
+  - numpy
+  - pip
+  - pandas
+  - scikit-learn
+  - sklearn-crfsuite
+  - tqdm
+  - pydot
+  - eli5
+  - seqeval
+  - pip:
+      - tf2crf
+      - expertai-nlapi
