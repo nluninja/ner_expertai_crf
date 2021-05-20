@@ -1,4 +1,4 @@
-name: ner-expertai
+name: ner-expertai-crf
 channels:
   - conda-forge
   - defaults
@@ -9,7 +9,7 @@ dependencies:
   - numpy
   - pip
   - pandas
-  - scikit-learn=0.24
+  - scikit-learn<0.24
   - sklearn-crfsuite
   - tqdm
   - pydot
