@@ -32,6 +32,8 @@ It was designed for on-premise deployment where data privacy requirements preven
 
 ## Current expert.ai Solutions
 
+**All the NL API features have been included in the NL Flow product.** See the documentation at [https://docs.expert.ai](https://docs.expert.ai).
+
 expert.ai continues to offer enterprise NLP solutions. For information about currently available products and APIs, please contact:
 
 - **Email**: info@expert.ai

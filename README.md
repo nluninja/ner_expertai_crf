@@ -2,6 +2,8 @@
 
 > **IMPORTANT NOTICE**: This project was developed using the expert.ai Edge NL API, which was **retired in 2023**. The code is preserved for educational and archival purposes but will not function without access to the legacy Edge NL API runtime.
 >
+> **Note**: All the NL API features have been included in the **NL Flow** product. See the documentation at [https://docs.expert.ai](https://docs.expert.ai).
+>
 > For information about current expert.ai NLP solutions, please contact **info@expert.ai** or visit [expert.ai](https://www.expert.ai).
 
 ---
